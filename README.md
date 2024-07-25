@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm an experienced data analyst and an aspiring programmer. I'm currently working on my capstone program for Udacity's Data Science nanodegree; check it out in the ds-capstone repo! I'm currently learning JavaScript in addition to my data science coursework. 
+I'm an experienced data analyst pivoting into software engineering. I'm a current student at Tech Elevator's full-stack bootcamp, where I'm learning to build dynamic web-based software systems using Java and JavaScript. 
 
 My pronouns are she/her. You can reach me at darcy.mccusker@gmail.com
